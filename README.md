@@ -1,2 +1,4 @@
 # firstproject-demo
-this is my first repository
+THIS REPOSITORY EXPLAINS A FLAPPY BIRD GAME
+AUTHOR- UJJWAL THAKUR
+
